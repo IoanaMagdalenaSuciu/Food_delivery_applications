@@ -1,0 +1,8 @@
+{Barbecued Shrimp  71.0 3.75 23 4 0 205 
+=3, Smoked Caviar and Hummus on Pita Toasts  79.0 5.0 23 1 2 49 
+=5, Spicy Pickled Shallots  78.0 0.0 23 1 0 162 
+=6, Quick & Spicy Asian Pickles  48.0 5.0 23 1 0 128 
+=6, Ethiopian Spice Tea  49.0 5.0 23 1 0 13 
+=6, Cilantro-Tomato Salsa  32.0 3.75 23 1 0 7 
+=1, Fresh Corn Tortillas  79.0 3.75 23 1 2 61 
+=6}

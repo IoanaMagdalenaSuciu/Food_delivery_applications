@@ -1,0 +1,7 @@
+[Order number: 20 for client with clientId: client 
+ Date: Thu May 27 11:00:00 EEST 2021
+ Price 254.0
+, Order number: 24 for client with clientId: client 
+ Date: Thu May 27 11:00:00 EEST 2021
+ Price 205.0
+]
